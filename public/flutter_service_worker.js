@@ -7,7 +7,7 @@ const RESOURCES = {
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
-"main.dart.js": "4ea1446c915c0045ae9901e9e132d820",
+"main.dart.js": "18767c6d650304fbebc2fb1e31d42942",
 "assets/NOTICES": "90f573b4705f5b605da486af4756dbd0",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
@@ -21,8 +21,8 @@ const RESOURCES = {
 "firebase-messaging-sw.js": "fcb671b618e3fc37fdd4b37b865f44e7",
 "favicon.ico": "f1f8d4b05985e568e6e76a7e66ad2c52",
 "version.json": "74b914d7a4941bd8369915a74680c0ae",
-"index.html": "a349dad38e2428cd16d3bda5d49bcd53",
-"/": "a349dad38e2428cd16d3bda5d49bcd53"
+"index.html": "9b61884cb058364b86721d0a86c38ceb",
+"/": "9b61884cb058364b86721d0a86c38ceb"
 };
 
 // The application shell files that are downloaded before a service worker can
